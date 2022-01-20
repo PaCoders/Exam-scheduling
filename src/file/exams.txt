@@ -1,0 +1,14 @@
+c FILE: exams.txt
+c --- Random Exam Scheduling ---
+p edge 5 5
+e 0 1
+e 0 3
+e 0 1
+e 0 3
+e 2 4
+e 2 0
+e 3 4
+e 3 1
+e 3 0
+e 3 1
+e 4 3
